@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ResultList&Sequence_1",
+        "CombinedList&Sequence_1",
+        "FruitListTwo&Sequence_1",
+        "fruitListOne&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../../Downloads/Skill Test 2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "fruitListOne&Sequence_1",
+        "FruitListTwo&Sequence_1",
+        "CombinedList&Sequence_1",
+        "ResultList&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

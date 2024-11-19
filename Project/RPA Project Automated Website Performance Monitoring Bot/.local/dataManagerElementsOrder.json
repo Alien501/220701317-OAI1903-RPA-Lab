@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "websiteUrl&Sequence_3",
+        "loadTime&Sequence_3",
+        "timestamp&Sequence_3",
+        "logFilePath&Sequence_3",
+        "startTime&Sequence_3",
+        "endTime&Sequence_3",
+        "elapsedTime&Sequence_3",
+        "fileExist&Sequence_3",
+        "variable1&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
